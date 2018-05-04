@@ -102,3 +102,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+chi2_Ode.png
